@@ -1,23 +1,15 @@
-# pytorch-mnist-VAE
-Variational AutoEncoder on the MNIST data set using the PyTorch
-
+# pytorch-mnist-GAN
+Pytorch implementation of GAN(Generative Adversarial Networks) on the MNIST data set
 
 ## Dependencies
 - PyTorch
 - torchvision
 - numpy
 
-## Results
-Generated samples from 2-D latent variable with random numbers from a normal distribution with mean 0 and variance 1 
-
-![alt text](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/samples/sample_.png)
-
 ## Reference
-1. Auto-Encoding Variational Bayes. Diederik P Kingma, Max Welling (paper): 
-https://arxiv.org/abs/1312.6114
-2. 오토인코더의 모든 것 (slides): 
-https://www.slideshare.net/NaverEngineering/ss-96581209
-3. Basic VAE Example (github): 
-https://github.com/pytorch/examples/tree/master/vae
-4. hwalsuklee/tensorflow-mnist-VAE (github): 
-https://github.com/hwalsuklee/tensorflow-mnist-VAE
+1. Goodfellow, Ian, et al. "Generative Adversarial Networks": 
+https://arxiv.org/pdf/1406.2661.pdf
+2. znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN (github): 
+https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
+3. prcastro/pytorch-gan (github): 
+https://github.com/prcastro/pytorch-gan
