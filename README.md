@@ -13,3 +13,5 @@ https://arxiv.org/pdf/1406.2661.pdf
 https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
 3. prcastro/pytorch-gan (github): 
 https://github.com/prcastro/pytorch-gan
+4. GANs-in-Action Manning book chapter 3:
+https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-3
